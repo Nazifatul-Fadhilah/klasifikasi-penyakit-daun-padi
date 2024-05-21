@@ -1,4 +1,4 @@
-<h1>Klasifikasi Penyakit Daun Padi Menggunakan Algoritma CNN</h1>>
+<h1>Klasifikasi Penyakit Daun Padi Menggunakan Algoritma CNN</h1>
 1. Dataset berjumlah 3655 file yang terbagi menajdi 4 kelas yaitu Bacterial leaf blight,brownspot, hispa dan helathy.
 <br>
 <img src="https://github.com/Nazifatul-Fadhilah/klasifikasi-penyakit-daun-padi/blob/main/dataset.png"/>
